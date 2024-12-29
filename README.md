@@ -3,26 +3,28 @@
 
 ## My Stats
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=HasithDeAlwis&count_private=true&show_icons=true&theme=radical" />
-    </td>
-    <td align="center">
-      <a href="https://leetcode.com/Hasith05">
-        <img src="https://leetcard.jacoblin.cool/Hasith05?theme=dark&font=Noto%20Sans" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=HasithDeAlwis&theme=radical" />
-    </td>
-    <td align="center">
-      <img style="width: 50%;" src="https://github-readme-activity-graph.vercel.app/graph?username=HasithDeAlwis&theme=redical&hide_border=true" />
-    </td>
-  </tr>
-</table>
+  <table>
+    <tr style="width: 50%;">
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=HasithDeAlwis&count_private=true&show_icons=true&theme=radical" />
+      </td>
+      <td align="center">
+        <a href="https://leetcode.com/Hasith05">
+          <img src="https://leetcard.jacoblin.cool/Hasith05?theme=dark&font=Noto%20Sans" />
+        </a>
+      </td>
+      <td align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=HasithDeAlwis&theme=radical" />
+      </td>
+    </tr>
+  </table>
+  <table>
+    <tr>
+      <td>
+          <img src="https://github-readme-activity-graph.vercel.app/graph?username=HasithDeAlwis&theme=redical&hide_border=true" style="width: 100%;" />
+      </td>
+    </tr>
+  </table>
 
 </div>
 
@@ -107,6 +109,8 @@
   </tr>
 </table>
 
+# 📫 How to reach me:
+Email: [hasithde24@gmail.com](mailto:hasithde24@gmail.com)
 
 <!--
 **HasithDeAlwis/HasithDeAlwis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
