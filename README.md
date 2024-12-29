@@ -3,13 +3,27 @@
 
 ## My Stats
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=HasithDeAlwis&count_private=true&show_icons=true&theme=radical" />
-  <a href="https://leetcode.com/Hasith05">
-    <img src="https://leetcard.jacoblin.cool/Hasith05?theme=dark&font=Noto%20Sans" />
-  </a>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HasithDeAlwis&theme=radical" />
-  
-  <img style="width: 50%" src="https://github-readme-activity-graph.vercel.app/graph?username=HasithDeAlwis&theme=redical&hide_border=true" />
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=HasithDeAlwis&count_private=true&show_icons=true&theme=radical" />
+    </td>
+    <td align="center">
+      <a href="https://leetcode.com/Hasith05">
+        <img src="https://leetcard.jacoblin.cool/Hasith05?theme=dark&font=Noto%20Sans" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=HasithDeAlwis&theme=radical" />
+    </td>
+    <td align="center">
+      <img style="width: 50%;" src="https://github-readme-activity-graph.vercel.app/graph?username=HasithDeAlwis&theme=redical&hide_border=true" />
+    </td>
+  </tr>
+</table>
+
 </div>
 
 # 🛠️ Tech Stack 
