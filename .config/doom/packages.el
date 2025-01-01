@@ -1,3 +1,4 @@
+
 ;; -*- no-byte-compile: t; -*-
 ;;; $DOOMDIR/packages.el
 
@@ -48,15 +49,27 @@
 ;; (unpin! pinned-package another-pinned-package)
 ;; ...Or *all* packages (NOT RECOMMENDED; will likely break things)
 ;; (unpin! t)
-(package! copilot
-  :recipe (:host github :repo "copilot-emacs/copilot.el" :files ("*.el")))
 
-(package! exec-path-from-shell)
+(package! magit-todos)
 
-(package! astro-ts-mode)
-(package! treesit-auto) ;; experimenting with treesitters
+(package! org-super-agenda)
+(package! org-fancy-priorities)
+(package! org-pandoc-import
+  :recipe (:host github
+           :repo "tecosaur/org-pandoc-import"
+           :files ("*.el" "filters" "preprocessors")))
 
-(when (modulep! +lsp)
-  (package! lsp-tailwindcss
-    :recipe (:host github :repo "merrickluo/lsp-tailwindcss"))) 
+(package! circe)
 
+(package! keycast)
+
+(package! pnpm-mode)
+(package! scad-mode)
+(package! gptel)
+(package! copilot-chat)
+
+(package! fireplace)
+(package! pacmacs)
+(package! speed-type)
+(package! key-quiz)
+(package! nyan-mode)
