@@ -73,36 +73,43 @@
 
 # 🚀 Project Showcase 
 
-<table>
+<table style="width: 100%; text-align: center; border-spacing: 20px;">
   <tr>
-    <td align="center">
-      <a href="https://github.com/cuhacking/2025">
-        <strong>CUHacking 2025</strong><br />
-        <img width="300" alt="CUHacking 2025" src="https://github.com/user-attachments/assets/7d402a9a-e365-42cf-8bfe-a0612c2d6ac3" />
+    <td>
+      <a href="https://github.com/MFarabi619/cuNext" style="text-decoration: none; color: inherit;">
+        <img src="https://private-user-images.githubusercontent.com/54924158/405419359-9c9ba674-3137-40e4-930e-652ab76f8246.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mzc1MDQ1NjAsIm5iZiI6MTczNzUwNDI2MCwicGF0aCI6Ii81NDkyNDE1OC80MDU0MTkzNTktOWM5YmE2NzQtMzEzNy00MGU0LTkzMGUtNjUyYWI3NmY4MjQ2LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAxMjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMTIyVDAwMDQyMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWY4MjA5YTEwZWFhYTgwOTlkMzY5MzYxNDVlNGFkNTk1YTU2YzQxZjc4NTljZDEwODkzYjIzY2EyODdlZTk2ZDMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.5GOUW84AQPZp6B_yHhRmZM4rGi6n32I0trV56SqR9po" alt="cuNext" width="300" />
+        <div><strong>cuNext</strong></div>
       </a>
     </td>
-    <td align="center">
-      <a href="https://github.com/HasithDeAlwis/MusicMania">
-        <strong>MusicMania</strong><br />
-        <img width="300" alt="MusicMania" src="https://github.com/user-attachments/assets/6d4e6305-e875-4e03-b904-4f5b929a18c9" />
+    <td>
+      <a href="https://github.com/cuhacking/2025" style="text-decoration: none; color: inherit;">
+        <img src="https://github.com/user-attachments/assets/7d402a9a-e365-42cf-8bfe-a0612c2d6ac3" alt="CUHacking 2025" width="300" />
+        <div><strong>CUHacking 2025</strong></div>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/HasithDeAlwis/MusicMania" style="text-decoration: none; color: inherit;">
+        <img src="https://github.com/user-attachments/assets/6d4e6305-e875-4e03-b904-4f5b929a18c9" alt="MusicMania" width="300" />
+        <div><strong>MusicMania</strong></div>
       </a>
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <a href="https://github.com/Carleton-Blueprint/CCS-Landing-Page">
-        <strong>CCS Landing Page</strong><br />
-        <img width="300" alt="CCS Landing Page" src="https://github.com/user-attachments/assets/cc2d078b-d102-49e3-848a-2d91816f7d1c" />
+    <td>
+      <a href="https://github.com/Carleton-Blueprint/CCS-Landing-Page" style="text-decoration: none; color: inherit;">
+        <img src="https://github.com/user-attachments/assets/cc2d078b-d102-49e3-848a-2d91816f7d1c" alt="CCS Landing Page" width="300" />
+        <div><strong>CCS Landing Page</strong></div>
       </a>
     </td>
-    <td align="center">
-      <a href="https://github.com/sbilalshaikh/uottahack2024">
-        <strong>CommuniPlant</strong><br />
-        <img width="300" alt="uOttaHack 2024" src="https://github.com/user-attachments/assets/9ea60cdc-ffbe-4654-89f3-324eeff35af0" />
+    <td>
+      <a href="https://github.com/sbilalshaikh/uottahack2024" style="text-decoration: none; color: inherit;">
+        <img src="https://github.com/user-attachments/assets/9ea60cdc-ffbe-4654-89f3-324eeff35af0" alt="CommuniPlant" width="300" />
+        <div><strong>CommuniPlant</strong></div>
       </a>
     </td>
   </tr>
 </table>
+
 
 # 📫 How to reach me:
 Email: [hasithde24@gmail.com](mailto:hasithde24@gmail.com)
